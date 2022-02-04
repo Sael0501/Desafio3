@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/saela/OneDrive/Escritorio/Kodemia/Desafio2 (Bookodemia)/BookodemiaSael/app/src/main/res/drawable/ic_favorite_bigger.xml" value="0.1" />
+        <entry key="..\:/Users/saela/OneDrive/Escritorio/Kodemia/Desafio2 (Bookodemia)/BookodemiaSael/app/src/main/res/drawable/ic_home.xml" value="0.1" />
+        <entry key="..\:/Users/saela/OneDrive/Escritorio/Kodemia/Desafio2 (Bookodemia)/BookodemiaSael/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/saela/OneDrive/Escritorio/Kodemia/Desafio2 (Bookodemia)/BookodemiaSael/app/src/main/res/drawable/ic_list_alt.xml" value="0.1" />
+        <entry key="..\:/Users/saela/OneDrive/Escritorio/Kodemia/Desafio2 (Bookodemia)/BookodemiaSael/app/src/main/res/drawable/ic_right.xml" value="0.1" />
+        <entry key="..\:/Users/saela/OneDrive/Escritorio/Kodemia/Desafio2 (Bookodemia)/BookodemiaSael/app/src/main/res/drawable/ic_share_alt.xml" value="0.1" />
+        <entry key="..\:/Users/saela/OneDrive/Escritorio/Kodemia/Desafio2 (Bookodemia)/BookodemiaSael/app/src/main/res/drawable/ic_share_bigger.xml" value="0.1" />
+        <entry key="..\:/Users/saela/OneDrive/Escritorio/Kodemia/Desafio2 (Bookodemia)/BookodemiaSael/app/src/main/res/drawable/ic_user_alt.xml" value="0.13425925925925927" />
+        <entry key="..\:/Users/saela/OneDrive/Escritorio/Kodemia/Desafio2 (Bookodemia)/BookodemiaSael/app/src/main/res/layout/activity_detalles.xml" value="0.264" />
+        <entry key="..\:/Users/saela/OneDrive/Escritorio/Kodemia/Desafio2 (Bookodemia)/BookodemiaSael/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/Users/saela/OneDrive/Escritorio/Kodemia/Desafio2 (Bookodemia)/BookodemiaSael/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/saela/OneDrive/Escritorio/Kodemia/Desafio2 (Bookodemia)/BookodemiaSael/app/src/main/res/layout/activity_registro.xml" value="0.2" />
+        <entry key="..\:/Users/saela/OneDrive/Escritorio/Kodemia/Desafio2 (Bookodemia)/BookodemiaSael/app/src/main/res/layout/item_card_view.xml" value="0.1659634317862166" />
+        <entry key="..\:/Users/saela/OneDrive/Escritorio/Kodemia/Desafio2 (Bookodemia)/BookodemiaSael/app/src/main/res/menu/menu.xml" value="0.10833333333333334" />
+        <entry key="..\:/Users/saela/OneDrive/Escritorio/Kodemia/Desafio2 (Bookodemia)/BookodemiaSaelTermiando/app/src/main/res/layout/activity_home.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/saela/OneDrive/Escritorio/Kodemia/Desafio3/pruebas/app/src/main/res/layout/activity_home.xml" value="0.12335359675785208" />
+        <entry key="..\:/Users/saela/OneDrive/Escritorio/Kodemia/Desafio3/pruebas/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/saela/OneDrive/Escritorio/Kodemia/Desafio3/pruebas/app/src/main/res/layout/activity_registro.xml" value="0.1" />
+        <entry key="..\:/Users/saela/OneDrive/Escritorio/Kodemia/Desafio3/pruebas/app/src/main/res/layout/item_card_view.xml" value="0.12335359675785208" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
